@@ -48,3 +48,6 @@
 // console.log(b);
 let StudentName ="Demo";
 console.log(StudentName);
+let a: number = 10;
+let b1: number = 10;
+console.log(a === b1);

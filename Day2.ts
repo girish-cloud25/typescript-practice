@@ -46,7 +46,7 @@
 // let b: number = 20;
 // b /= 4;
 // console.log(b);
-let StudentName ="Demo";
+let StudentName ="Demoo";
 console.log(StudentName);
 let a: number = 10;
 let b1: number = 10;

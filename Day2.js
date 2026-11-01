@@ -34,6 +34,12 @@
 // let a:number=10;
 // let b:number=20;  
 // console.log(a+b);
-let c = 30;
-c += 20;
-console.log(c);
+// let c:number=30;
+// c += 20;
+// console.log(c);
+// let a = 2;
+// let b = 4;
+// console.log(a ** b);
+let b = 20;
+b /= 4;
+console.log(b);

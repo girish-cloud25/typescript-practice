@@ -43,6 +43,8 @@
 // let a = 2;
 // let b = 4;
 // console.log(a ** b);
-let a: number = 20;
-a /= 4;
-console.log(a);
+// let b: number = 20;
+// b /= 4;
+// console.log(b);
+let StudentName ="Demo";
+console.log(StudentName);
